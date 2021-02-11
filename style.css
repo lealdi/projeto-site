@@ -14,3 +14,12 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.664);
 }
+
+img.lado{
+    float: right;
+}
+
+iframe.ajuste{
+    width: 500px;
+    height: 315px;
+}
